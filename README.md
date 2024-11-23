@@ -12,8 +12,5 @@ Hello! I’m Tikshil, a self-taught programmer with a diploma in Mechanical Engi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tiksh09&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tiksh09&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
 [![](https://visitcount.itsvg.in/api?id=tiksh09&icon=4&color=1)](https://visitcount.itsvg.in)
